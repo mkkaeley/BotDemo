@@ -4,7 +4,7 @@
     },
     "app": {
         "apiPrefix" : "",
-        "url": "https://calm-things-beam.loca.lt"
+        "url": "https://sweet-places-itch.loca.lt"
     },
     "validations": {
         "leastNodeVersion": 10

@@ -1,5 +1,5 @@
 {
-  "name": "BotKit",
+  "name": "botkit",
   "version": "1.0.0",
   "description": "## Introduction",
   "main": "BookACab.js",
@@ -75,12 +75,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Koredotcom/BotKit.git"
+    "url": "git+https://github.com/Koredotcom/BotKit.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Koredotcom/BotKit/issues"
   },
-  "homepage": "https://github.com/Koredotcom/BotKit"
+  "homepage": "https://github.com/Koredotcom/BotKit",
+  "directories": {
+    "doc": "docs",
+    "lib": "lib"
+  }
 }
