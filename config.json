@@ -4,7 +4,7 @@
     },
     "app": {
         "apiPrefix" : "",
-        "url": "https://chubby-words-vanish.loca.lt"
+        "url": "https://calm-things-beam.loca.lt"
     },
     "validations": {
         "leastNodeVersion": 10
