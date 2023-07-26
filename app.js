@@ -7,6 +7,7 @@ var app    = new Application(null, config);
 var server = new Server(config, app);
 
 sdk.checkNodeVersion();
+console.log("Hello");
 
 server.start();
 
@@ -18,4 +19,6 @@ server.start();
 // sdk.registerBot(require('./OrderAPizza.js'));
 // sdk.registerBot(require('./BotVariables.js'));
 // sdk.registerBot(require('./LiveChat.js'));
+console.log("Hello1");
 sdk.registerBot(require('./Export.js'));
+console.log("Hello1.5");

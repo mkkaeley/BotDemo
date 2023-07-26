@@ -4,7 +4,7 @@
     },
     "app": {
         "apiPrefix" : "",
-        "url": "https://sweet-places-itch.loca.lt"
+        "url": "https://plain-ravens-dance.loca.lt"
     },
     "validations": {
         "leastNodeVersion": 10
